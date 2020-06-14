@@ -1,2 +1,2 @@
-# Exoplanets_krittika
-Repository to upload all your code and results
+# Exoplanets_Krittika
+Repository to document progress.
